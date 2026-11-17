@@ -1,0 +1,44 @@
+{
+    "appointments": [
+        {
+            "appointment_id": "APT-B1E69642",
+            "doctor_id": "DOC002",
+            "slot_id": "SLOT004",
+            "patient_name": "Lokesh",
+            "patient_phone": "9876543211",
+            "appointment_date": "2026-11-18",
+            "appointment_time": "11:00",
+            "status": "cancelled"
+        },
+        {
+            "appointment_id": "APT-047A18ED",
+            "doctor_id": "DOC001",
+            "slot_id": "SLOT001",
+            "patient_name": "Mukesh",
+            "patient_phone": "9876543210",
+            "appointment_date": "2026-11-18",
+            "appointment_time": "10:00",
+            "status": "booked"
+        },
+        {
+            "appointment_id": "APT-20D202D8",
+            "doctor_id": "DOC001",
+            "slot_id": "SLOT002",
+            "patient_name": "Umesh Kumar Reddy",
+            "patient_phone": "8309890737",
+            "appointment_date": "2026-11-18",
+            "appointment_time": "10:30",
+            "status": "booked"
+        },
+        {
+            "appointment_id": "APT-45E202E9",
+            "doctor_id": "DOC001",
+            "slot_id": "SLOT003",
+            "patient_name": "Lokesh Amara Ody",
+            "patient_phone": "9876543210",
+            "appointment_date": "2026-11-19",
+            "appointment_time": "11:00",
+            "status": "booked"
+        }
+    ]
+}

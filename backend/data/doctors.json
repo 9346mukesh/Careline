@@ -1,0 +1,110 @@
+{
+  "doctors": [
+    {
+      "doctor_id": "DOC001",
+      "name": "Dr. Rahul Sharma",
+      "speciality": "Cardiology",
+      "experience_years": 12,
+      "available_slots": [
+        {
+          "slot_id": "SLOT001",
+          "date": "2026-11-18",
+          "time": "10:00",
+          "duration_minutes": 30
+        },
+        {
+          "slot_id": "SLOT002",
+          "date": "2026-11-18",
+          "time": "10:30",
+          "duration_minutes": 30
+        },
+        {
+          "slot_id": "SLOT003",
+          "date": "2026-11-19",
+          "time": "11:00",
+          "duration_minutes": 30
+        }
+      ]
+    },
+    {
+      "doctor_id": "DOC002",
+      "name": "Dr. Priya Reddy",
+      "speciality": "Dermatology",
+      "experience_years": 8,
+      "available_slots": [
+        {
+          "slot_id": "SLOT004",
+          "date": "2026-11-18",
+          "time": "11:00",
+          "duration_minutes": 30
+        },
+        {
+          "slot_id": "SLOT005",
+          "date": "2026-11-19",
+          "time": "12:00",
+          "duration_minutes": 30
+        }
+      ]
+    },
+    {
+      "doctor_id": "DOC003",
+      "name": "Dr. Anil Kumar",
+      "speciality": "Orthopedics",
+      "experience_years": 15,
+      "available_slots": [
+        {
+          "slot_id": "SLOT006",
+          "date": "2026-11-18",
+          "time": "14:00",
+          "duration_minutes": 30
+        },
+        {
+          "slot_id": "SLOT007",
+          "date": "2026-11-19",
+          "time": "15:00",
+          "duration_minutes": 30
+        }
+      ]
+    },
+    {
+      "doctor_id": "DOC004",
+      "name": "Dr. Sneha Rao",
+      "speciality": "General Physician",
+      "experience_years": 6,
+      "available_slots": [
+        {
+          "slot_id": "SLOT008",
+          "date": "2026-11-18",
+          "time": "09:00",
+          "duration_minutes": 30
+        },
+        {
+          "slot_id": "SLOT009",
+          "date": "2026-11-19",
+          "time": "10:00",
+          "duration_minutes": 30
+        }
+      ]
+    },
+    {
+      "doctor_id": "DOC005",
+      "name": "Dr. AppaRao",
+      "speciality": "General Physician",
+      "experience_years": 4,
+      "available_slots": [
+        {
+          "slot_id": "SLOT010",
+          "date": "2026-11-18",
+          "time": "09:00",
+          "duration_minutes": 30
+        },
+        {
+          "slot_id": "SLOT011",
+          "date": "2026-11-19",
+          "time": "10:00",
+          "duration_minutes": 30
+        }
+      ]
+    }
+  ]
+}
